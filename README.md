@@ -18,4 +18,4 @@
 
 [instagram]: https://www.instagram.com/andruepham/
 [linkedin]: https://www.linkedin.com/in/andrew-pham-754282230/
-<b> Email: andrewpham19@gmail.com Cell: 216-972-3588</b>
+<b> Email: a.pham@vikes.csuohio.edu </b>

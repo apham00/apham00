@@ -6,7 +6,7 @@
   - [Built an ATM program that involved working with arrays, switch cases, methods, if statements, while statements, for loops, and nested loops.]<!--(https://github.com/joshmadakor1/Algorithms-Practice)-->
 - <b>Word Count (Python)</b>
   - [Created a program to read a text file that involved parsing a text file to print occurrences of each word in descending order. ]<!--(https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)-->
-- <b>Shopping Cart (Java)</b>
+- <b>[Shopping Cart](https://github.com/apham00/-Shopping-Cart.git) (Java)</b>
   - [•	Developed a shopping cart program by utilizing the decorator and singleton design patterns.](https://github.com/apham00/-Shopping-Cart.git)
 - <b>Pthread Project (C)</b>
   - [Learned to synchronize threads for independent computations using the Pthread library.]<!--(https://github.com/joshmadakor1/EncrypterPOC)-->

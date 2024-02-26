@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>[ATM](https://github.com/apham00/ATM.git) (Java)</b>
+- <b>🏧[ATM](https://github.com/apham00/ATM.git) (Java)</b>
   - Built an ATM program that involved working with arrays, switch cases, methods, if statements, while statements, for loops, and nested loops.
 - <b>[Word Count](https://github.com/apham00/-Word-Count.git) (Python)</b>
   - Created a program to read a text file that involved parsing a text file to print occurrences of each word in descending order. 

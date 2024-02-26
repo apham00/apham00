@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew! <br/><a>Programmer</a>, <a> <!--href="https://www.linkedin.com/in/joshmadakor/"-->Valet</a>, <a> <!-- href="https://www.youtube.com/c/joshmadakor"-->Student</a></h1>
+<h1>Hi, I'm Andrew! <br/><a>Programmer</a>, <a>Student</a>, <a>Valet</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

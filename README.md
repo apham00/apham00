@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>ATM (Java)</b>
-  - [Built an ATM program that involved working with arrays, switch cases, methods, if statements, while statements, for loops, and nested loops.]<!--(https://github.com/joshmadakor1/Algorithms-Practice)-->
+- <b>[ATM](https://github.com/apham00/ATM.git) (Java)</b>
+  - Built an ATM program that involved working with arrays, switch cases, methods, if statements, while statements, for loops, and nested loops.
 - <b>Word Count (Python)</b>
   - [Created a program to read a text file that involved parsing a text file to print occurrences of each word in descending order. ]<!--(https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)-->
 - <b>[Shopping Cart](https://github.com/apham00/-Shopping-Cart.git) (Java)</b>

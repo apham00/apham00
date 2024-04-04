@@ -4,11 +4,11 @@
 
 - <b>[ATM](https://github.com/apham00/ATM.git)🏧 (Java)</b>
   - Built an ATM program that involved working with arrays, switch cases, methods, if statements, while statements, for loops, and nested loops.
-- <b>[Word Count](https://github.com/apham00/-Word-Count.git)🧮 (Python)</b>
+- <b>[Word Count](https://github.com/apham00/Word-Count.git)🧮 (Python)</b>
   - Created a program to read a text file that involved parsing a text file to print occurrences of each word in descending order. 
-- <b>[Shopping Cart](https://github.com/apham00/-Shopping-Cart.git)🛒 (Java)</b>
+- <b>[Shopping Cart](https://github.com/apham00/Shopping-Cart.git)🛒 (Java)</b>
   - Developed a shopping cart program by utilizing the decorator and singleton design patterns.
-- <b>Pthread Project🧵 (C)</b>
+- <b>[Pthread Project](https://github.com/apham00/Pthread)🧵 (C)</b>
   - Learned to synchronize threads for independent computations using the Pthread library.
 
 <h2> Connect with me:</h2>
@@ -19,3 +19,4 @@
 [instagram]: https://www.instagram.com/andruepham/
 [linkedin]: https://www.linkedin.com/in/andrew-pham-754282230/
 <b> Email: a.pham@vikes.csuohio.edu </b>
+<b> Cell: 216-972-3588

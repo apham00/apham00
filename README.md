@@ -2,14 +2,17 @@
 
 <h2>Software Development Projects:</h2>
 
-- <b>[ATM](https://github.com/apham00/ATM.git) (Java)</b>
-  - Built an ATM program that involved working with arrays, switch cases, methods, if statements, while statements, for loops, and nested loops.
-- <b>[Word Count](https://github.com/apham00/Word-Count.git) (Python)</b>
-  - Created a program to read a text file that involved parsing a text file to print occurrences of each word in descending order. 
-- <b>[Shopping Cart](https://github.com/apham00/Shopping-Cart.git) (Java)</b>
-  - Developed a shopping cart program by utilizing the decorator and singleton design patterns.
-- <b>[Pthread Project](https://github.com/apham00/Pthread) (C)</b>
-  - Learned to synchronize threads for independent computations using the Pthread library.
+ Cisco Networking Academy
+ Network Security
+Completed coursework in network security, device protection, and firewall technologies
+•	Studied network security fundamentals, including common threats, vulnerabilities, and methods for mitigating attacks
+•	Learned secure device access and administrative control concepts, including authentication, authorization, and accounting (AAA)
+•	Worked with access control lists (ACLs), firewall technologies, and traffic filtering concepts used to secure network communication
+•	Explored intrusion prevention systems (IPS), endpoint protection, and Layer 2 security considerations in enterprise environments
+•	Covered cryptographic services, public key cryptography, and basic integrity and authenticity concepts in secure communications
+•	Studied VPN technologies and site-to-site IPsec VPN concepts for secure remote and network-to-network connectivity
+•	Completed hands-on coursework involving ASA firewall configuration, network security testing, and secure device management practices
+
 
 <h2> Connect:</h2>
 

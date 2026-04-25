@@ -11,7 +11,7 @@
 - <b>[Pthread Project](https://github.com/apham00/Pthread) (C)</b>
   - Learned to synchronize threads for independent computations using the Pthread library.
 
-<h2> Connect with me:</h2>
+<h2> Connect:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]

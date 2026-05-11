@@ -50,7 +50,7 @@
 <br>
   <a href="https://github.com/apham00/Network-Security-Labs/tree/main/CIDR%20VLSM">CIDR / VLSM Exercise</a><br>
   <br>
-  <a href="https://github.com/apham00/Network-Security-Labs/tree/main/CIDR%20VLSM">Basic Setup of ASA and AAA on Cisco Router</a><br>
+  <a href="https://github.com/apham00/Network-Security-Labs/tree/main/ASAusingASDMandCLI">Basic Setup of ASA and AAA on Cisco Router</a><br>
 
 <h2>School/Personal Projects:</h2>
 

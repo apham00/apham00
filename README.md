@@ -1,8 +1,5 @@
 <h1>
-  Hi, I'm Andrew! <br/>
-  <a href="https://github.com/apham00">Programmer</a>, 
-  <a href="https://github.com/apham00">Student</a>, 
-  <a href="https://github.com/apham00">Epic Gamer</a>
+  Hi, I'm Andrew! Programmer, Student, Gamer
 </h1>
 
 <h2>Cisco Networking Academy: Network Security</h2>
@@ -52,15 +49,8 @@
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">Configure DMVPN with 3DES, SHA-1, and EIGRP AS100</a><br>
 </h4>
 
- 
 
-
-<h2> Connect:</h2>
-
-[<img align="left" alt="apham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="apham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/andruepham/
-[linkedin]: https://www.linkedin.com/in/andrew-pham-754282230/
+<h2>Connect:</h2>
+<b> LinkedIn: https://www.linkedin.com/in/apham00/ </b>
 <b> Email: a.pham@vikes.csuohio.edu </b>
 <b> Cell: 216-972-3588

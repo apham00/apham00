@@ -5,9 +5,7 @@
   <a href="https://github.com/apham00">Epic Gamer</a>
 </h1>
 
-<h2>Cisco Networking Academy:</h2>
-<h3>Network Security Labs:</h3>
-
+<h2>Cisco Networking Academy: Network Security</h2>
 <h4>
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/6-to-4-tunnels">Configuring 6-to-4 Tunnels</a><br>
 

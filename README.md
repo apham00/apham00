@@ -52,5 +52,5 @@
 
 <h2>Connect:</h2>
 <b> LinkedIn: https://www.linkedin.com/in/apham00/ </b>
-<b> Email: a.pham@vikes.csuohio.edu </b>
-<b> Cell: 216-972-3588
+<b> School: a.pham@vikes.csuohio.edu </b>
+<b> Personal: andrewpham19@gmail.com </b>

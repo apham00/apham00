@@ -48,7 +48,7 @@
 <br>
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">Configure DMVPN with 3DES, SHA-1, and EIGRP AS100</a><br>
 <br>
-  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">CIDR / VLSM Exercise</a><br>
+  <a href="https://github.com/apham00/Network-Security-Labs/tree/main/CIDR%20VLSM">CIDR / VLSM Exercise</a><br>
 
 <h2>School/Personal Projects:</h2>
 

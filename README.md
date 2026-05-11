@@ -1,29 +1,57 @@
-<h1>Hi, I'm Andrew! <br/><a>Programmer</a>, <a>Student</a>, <a>Epic Gamer</a></h1>
+<h1>
+  Hi, I'm Andrew! <br/>
+  <a href="https://github.com/apham00">Programmer</a>, 
+  <a href="https://github.com/apham00">Student</a>, 
+  <a href="https://github.com/apham00">Epic Gamer</a>
+</h1>
 
 <h2>Cisco Networking Academy:</h2>
 <h3>Network Security Labs:</h3>
-<h4>Configuring 6-to-4 Tunnels<br>
-RIP, DHCP, and Subnetting<br>
-Configure IOS Devices for Syslog and NTP<br>
-Cisco VRF Model <br>
-Configure Cisco Router as Cisco Easy VPN Server<br>
-Implement Layer 2 Security Best Practices<br>
-Configuring Context-Based Access Control (CBAC) <br>
-Configuring a Zone-Based Policy Firewall (ZPF)<br>
-Configuring IPv6 Addresses Manually<br>
-IPSec Model<br>
-Router Security <br>
-WAN Router Environment <br>
-Securing Layer 2 Switches <br>
-MOTD, Password, Console, Telnet, and SSH<br>
-Switching <br>
-Install Certificate Services on ASA using ASDM/CLI<br>
-RTP Retooling: Single Area OSPF <br>
-Configure Extended ACLs<br>
-Filtering with IP Access List Standard and Extended <br>
-Navigate the IOS by using Tera Term<br>
-Port Security on Cisco 2960 Access Switch<br>
-Configure DMVPN with 3DES, SHA-1, and EIGRP AS100<br>
+
+<h4>
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/6-to-4-tunnels">Configuring 6-to-4 Tunnels</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/rip-dhcp-subnetting">RIP, DHCP, and Subnetting</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/syslog-ntp">Configure IOS Devices for Syslog and NTP</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/cisco-vrf-model">Cisco VRF Model</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/easy-vpn-server">Configure Cisco Router as Cisco Easy VPN Server</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/layer-2-security">Implement Layer 2 Security Best Practices</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/cbac">Configuring Context-Based Access Control (CBAC)</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/zone-based-firewall">Configuring a Zone-Based Policy Firewall (ZPF)</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/ipv6-addressing">Configuring IPv6 Addresses Manually</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/ipsec-model">IPSec Model</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/router-security">Router Security</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/wan-router-environment">WAN Router Environment</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/securing-layer-2-switches">Securing Layer 2 Switches</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/motd-console-telnet-ssh">MOTD, Password, Console, Telnet, and SSH</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/switching">Switching</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/asa-certificate-services">Install Certificate Services on ASA using ASDM/CLI</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/single-area-ospf">RTP Retooling: Single Area OSPF</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/extended-acls">Configure Extended ACLs</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/ip-access-lists">Filtering with IP Access List Standard and Extended</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/ios-tera-term">Navigate the IOS by using Tera Term</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/port-security-2960">Port Security on Cisco 2960 Access Switch</a><br>
+
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">Configure DMVPN with 3DES, SHA-1, and EIGRP AS100</a><br>
 </h4>
 
  

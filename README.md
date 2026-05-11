@@ -55,7 +55,6 @@
 <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">DayZ Server Management</a><br>
 
 <a href="https://github.com/apham00/Mazebot">Mazebot Team Project (Frontend/Backend) 
-<br>http://eecs.csuohio.edu/~anpham/</a><br>
 </h4>
 
 

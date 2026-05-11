@@ -6,6 +6,7 @@
 <h4>
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/6-to-4-tunnels">Configuring 6-to-4 Tunnels</a><br>
 
+
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/rip-dhcp-subnetting">RIP, DHCP, and Subnetting</a><br>
 
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/syslog-ntp">Configure IOS Devices for Syslog and NTP</a><br>
@@ -47,7 +48,17 @@
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/port-security-2960">Port Security on Cisco 2960 Access Switch</a><br>
 
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">Configure DMVPN with 3DES, SHA-1, and EIGRP AS100</a><br>
+
+<h2>School/Personal Projects:</h2>
+
+<a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">Active Directory Lab</a><br>
+
+<a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">DayZ Server Management</a><br>
+
+<a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">Mazebot Team Project (Frontend/Backend) 
+<br>http://eecs.csuohio.edu/~anpham/</a><br>
 </h4>
+
 
 
 <h2>Connect:</h2>

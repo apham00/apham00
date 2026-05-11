@@ -52,5 +52,5 @@
 
 <h2>Connect:</h2>
 <b> LinkedIn: https://www.linkedin.com/in/apham00/ </b>
-<b> School: a.pham@vikes.csuohio.edu </b>
-<b> Personal: andrewpham19@gmail.com </b>
+<br> School: a.pham@vikes.csuohio.edu </b>
+<br> Personal: andrewpham19@gmail.com </b>

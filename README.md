@@ -34,7 +34,7 @@
 <br>
   <a href="https://github.com/apham00/Network-Security-Labs/blob/main/switching-lab-1/README.md">Switching</a><br>
 <br>
-  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/asa-certificate-services">Install Certificate Services on ASA using ASDM/CLI</a><br>
+  <a href="https://github.com/apham00/Network-Security-Labs/tree/main/ASAusingASDMandCLI">ASA Firewall and SSH using ASDM/CLI</a><br>
 <br>
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/single-area-ospf">RTP Retooling: Single Area OSPF</a><br>
 <br>

@@ -32,7 +32,7 @@
 <br>
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/motd-console-telnet-ssh">MOTD, Password, Console, Telnet, and SSH</a><br>
 <br>
-  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/switching">Switching</a><br>
+  <a href="https://github.com/apham00/Network-Security-Labs/blob/main/switching-lab-1/README.md">Switching</a><br>
 <br>
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/asa-certificate-services">Install Certificate Services on ASA using ASDM/CLI</a><br>
 <br>

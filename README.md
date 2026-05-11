@@ -47,6 +47,8 @@
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/port-security-2960">Port Security on Cisco 2960 Access Switch</a><br>
 <br>
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">Configure DMVPN with 3DES, SHA-1, and EIGRP AS100</a><br>
+<br>
+  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">CIDR / VLSM Exercise</a><br>
 
 <h2>School/Personal Projects:</h2>
 

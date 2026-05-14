@@ -4,7 +4,7 @@
 
 <h2>Cisco Networking Academy: Network Security</h2>
 <h4>
-  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/6-to-4-tunnels">Configuring 6-to-4 Tunnels</a><br>
+  <a href="https://github.com/apham00/Network-Security-Labs/tree/main/Configuring6to4">Configuring 6-to-4 Tunnels</a><br>
 <br>
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/rip-dhcp-subnetting">RIP, DHCP, and Subnetting</a><br>
 </br>

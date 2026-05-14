@@ -6,13 +6,13 @@
 <h4>
   <a href="https://github.com/apham00/Network-Security-Labs/tree/main/Configuring6to4">Configuring 6-to-4 Tunnels</a><br>
 <br>
-  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/rip-dhcp-subnetting">RIP, DHCP, and Subnetting</a><br>
+  <a href="https://github.com/apham00/Network-Security-Labs/tree/main/RIP-DHCP-Subnetting">RIP, DHCP, and Subnetting</a><br>
 </br>
-  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/syslog-ntp">Configure IOS Devices for Syslog and NTP</a><br>
+  <a href="https://github.com/apham00/Network-Security-Labs/tree/main/ConfigureIOSDevices">Configure IOS Devices for Syslog and NTP</a><br>
 <br>
-  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/cisco-vrf-model">Cisco VRF Model</a><br>
+  <a href="https://github.com/apham00/Network-Security-Labs/tree/main/CiscoVRFModel">Cisco VRF Model</a><br>
 <br>
-  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/easy-vpn-server">Configure Cisco Router as Cisco Easy VPN Server</a><br>
+  <a href="https://github.com/apham00/Network-Security-Labs/tree/main/CiscoEasyVPNServer">Configure Cisco Router as Cisco Easy VPN Server</a><br>
 <br>
   <a href="https://github.com/apham00/Network-Security-Labs/tree/main/Layer2BestPractices">Implement Layer 2 Security Best Practices</a><br>
 <br>

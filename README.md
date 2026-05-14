@@ -14,7 +14,7 @@
 <br>
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/easy-vpn-server">Configure Cisco Router as Cisco Easy VPN Server</a><br>
 <br>
-  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/layer-2-security">Implement Layer 2 Security Best Practices</a><br>
+  <a href="https://github.com/apham00/Network-Security-Labs/tree/main/Layer2BestPractices">Implement Layer 2 Security Best Practices</a><br>
 <br>
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/cbac">Configuring Context-Based Access Control (CBAC)</a><br>
 <br>
@@ -28,7 +28,7 @@
 <br>
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/wan-router-environment">WAN Router Environment</a><br>
 <br>
-  <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/securing-layer-2-switches">Securing Layer 2 Switches</a><br>
+  <a href="https://github.com/apham00/Network-Security-Labs/tree/main/SecuringLayer2Switches">Securing Layer 2 Switches</a><br>
 <br>
   <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/motd-console-telnet-ssh">MOTD, Password, Console, Telnet, and SSH</a><br>
 <br>

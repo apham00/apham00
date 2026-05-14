@@ -56,9 +56,9 @@
 
 <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">Active Directory Lab (in the works)</a><br>
 
-<a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">DayZ Server Management</a><br>
+<a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">DayZ Community Server</a><br>
 
-<a href="https://github.com/apham00/Mazebot">Mazebot Team Project (Frontend/Backend) 
+<a href="https://github.com/apham00/Mazebot">Mazebot Team Project
 </h4>
 
 

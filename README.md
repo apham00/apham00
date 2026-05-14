@@ -54,7 +54,7 @@
 
 <h2>School/Personal Projects:</h2>
 
-<a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">Active Directory Lab</a><br>
+<a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">Active Directory Lab (in the works)</a><br>
 
 <a href="https://github.com/apham00/Cisco-Networking-Labs/tree/main/dmvpn-eigrp">DayZ Server Management</a><br>
 
